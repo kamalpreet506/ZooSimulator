@@ -1,15 +1,13 @@
-###################
-Technical Details
-###################
+
+### Technical Details
+
 
 The Zoo simulator is build in code igniter framework.
 The Language use is PHP 7.
 Database is MYSql
 
+### Installation Instructions
 
-*******************
-Installation Instructions
-*******************
 For Local
 
 1. Download and install Xampp(https://www.apachefriends.org/download.html) and run the apache and mysql server
